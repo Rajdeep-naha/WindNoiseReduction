@@ -137,3 +137,4 @@ dmypy.json
 cython_debug/
 pip.pyz
 pyvenv.cfg
+share/
